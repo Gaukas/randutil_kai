@@ -1,4 +1,4 @@
-package randutil
+package randutil_kai
 
 import (
 	"sync"
